@@ -1,8 +1,3 @@
-<h2 align="center">👋 Hello there! I'm Jakob.</h2>
-
-Just a random guy who writes code and do a lot of random stuff. 
-
--------
-
-:clipboard: Current projects
-- <a href="https://github.com/WOW-BS">World of Warcraft BS</a>
+<pre>
+Just programming all sort of random stuff. However, I have an interest in Cyber Security. 
+</pre>
