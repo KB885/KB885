@@ -4,9 +4,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/Murmeldyret/power_ranger/pull/64) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
-2. 💪 Opened PR [#62](https://github.com/Murmeldyret/power_ranger/pull/62) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
-3. 🎉 Merged PR [#61](https://github.com/Murmeldyret/power_ranger/pull/61) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
-4. 💪 Opened PR [#60](https://github.com/Murmeldyret/power_ranger/pull/60) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
-5. 💪 Opened PR [#59](https://github.com/Murmeldyret/power_ranger/pull/59) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
+1. 🎉 Merged PR [#1](https://github.com/KB885/MERN-P2/pull/1) in [KB885/MERN-P2](https://github.com/KB885/MERN-P2)
+2. 🗣 Commented on [#1](https://github.com/KB885/MERN-P2/issues/1) in [KB885/MERN-P2](https://github.com/KB885/MERN-P2)
+3. 💪 Opened PR [#64](https://github.com/Murmeldyret/power_ranger/pull/64) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
+4. 💪 Opened PR [#62](https://github.com/Murmeldyret/power_ranger/pull/62) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
+5. 🎉 Merged PR [#61](https://github.com/Murmeldyret/power_ranger/pull/61) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
 <!--END_SECTION:activity-->
