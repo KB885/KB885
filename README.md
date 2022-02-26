@@ -1,12 +1,35 @@
 ## Hey there :wave:
 
-![Overall stats](https://github-readme-stats.vercel.app/api?username=KB885&theme=tokyonight&show_icons=true&count_private=true)
+I'm studying software engineering and don't have a lot of free time. But I do have hobby projects that I work on from time to time.
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/KB885/MERN-P2/pull/1) in [KB885/MERN-P2](https://github.com/KB885/MERN-P2)
-2. 🗣 Commented on [#1](https://github.com/KB885/MERN-P2/issues/1) in [KB885/MERN-P2](https://github.com/KB885/MERN-P2)
-3. 💪 Opened PR [#64](https://github.com/Murmeldyret/power_ranger/pull/64) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
-4. 💪 Opened PR [#62](https://github.com/Murmeldyret/power_ranger/pull/62) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
-5. 🎉 Merged PR [#61](https://github.com/Murmeldyret/power_ranger/pull/61) in [Murmeldyret/power_ranger](https://github.com/Murmeldyret/power_ranger)
-<!--END_SECTION:activity-->
+### :zap: Currently working on
+- [readx.club](https://#) - Book club to organise and collect books across different genres.
+- [study](https://#) - Website to help students in primary school and high school.
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg" alt="react" width="40" height="40"/>
+  
+</p>
