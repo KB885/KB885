@@ -7,3 +7,8 @@ I'm studying software engineering and don't have a lot of free time. But I do ha
 - [Eunoia](https://github.com/KB885/Eunoia) - 🌝 Designed to be an elegant and well-developed blog
 - [Tailui.com](https://tailui.com) - UI components made with Tailwindcss. 
 - [study](https://#) - Website to help students in primary school and high school.
+
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kb885&layout=compact)
+
