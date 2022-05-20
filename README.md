@@ -10,5 +10,5 @@ I'm studying software engineering and don't have a lot of free time. But I do ha
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kb885&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kb885&layout=compact&theme=radical)
 
